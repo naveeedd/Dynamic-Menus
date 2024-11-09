@@ -1,0 +1,2 @@
+**Dynamic Content Creator (JSP & Oracle Database)**  
+A JSP-based web app for generating dynamic content by connecting to an Oracle database. It enables users to view, add, edit, and delete database records via a simple web interface. This project is ideal for learning JSP, JDBC, and SQL fundamentals, highlighting dynamic content generation, CRUD operations, and seamless database integration with Oracle.
